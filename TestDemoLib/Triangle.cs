@@ -22,5 +22,7 @@ namespace TestDemoLib
 
             return a * h / 2;
         }
+
+        public static double GetPerimeter(double a, double b, double c) => 0;
     }
 }
